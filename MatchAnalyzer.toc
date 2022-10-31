@@ -1,0 +1,7 @@
+## Interface: 100000
+## Title: Match Analyzer
+## Notes: Tool that analyzes your arena matches and gives you tips to improve your play.
+## Version: 0.1.0
+## Author: skelsey2, mclacore
+
+MatchAnalyzer.lua
