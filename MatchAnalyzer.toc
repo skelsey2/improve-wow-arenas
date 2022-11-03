@@ -3,5 +3,35 @@
 ## Notes: Tool that analyzes your arena matches and gives you tips to improve your play.
 ## Version: 0.1.0
 ## Author: skelsey2, mclacore
+## Notes-deDE: Redirect character errors, system messages and information messages.
+## Notes-ruRU: Redirect character errors, system messages and information messages.
+## Notes-zhCN: Redirect character errors, system messages and information messages.
+## Notes-zhTW: Redirect character errors, system messages and information messages.
+## Notes-koKR: Redirect character errors, system messages and information messages.
+## Notes-frFR: Redirect character errors, system messages and information messages.
+## Notes-esES: Redirect character errors, system messages and information messages.
+## Notes-esMX: Redirect character errors, system messages and information messages.
+## Notes-itIT: Redirect character errors, system messages and information messages.
+## Notes-ptBR: Redirect character errors, system messages and information messages.
+## X-Category: Combat
+## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
+## X-Curse-Project-ID: 3367
+## X-WoWI-ID: 5949
+## SavedVariables: MatchAnalyzerDB
+## OptionalDeps: Ace3, LibSink-2.0
+
+embeds.xml
+
+Locales\enUS.lua
+Locales\ptBR.lua
+Locales\frFR.lua
+Locales\deDE.lua
+Locales\itIT.lua
+Locales\koKR.lua
+Locales\esMX.lua
+Locales\ruRU.lua
+Locales\zhCN.lua
+Locales\esES.lua
+Locales\zhTW.lua
 
 MatchAnalyzer.lua
